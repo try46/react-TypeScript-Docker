@@ -4,7 +4,7 @@ Reactの開発環境をDockerで構築する
 
 # TODO
 
-[ ] nodeのimageじゃなくてalpineベースで 
+- [ ] nodeのimageじゃなくてalpineベースで 
 
 # 使い方
 
